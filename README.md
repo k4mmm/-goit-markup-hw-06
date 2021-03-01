@@ -1,3 +1,3 @@
-# goit-markup-hw-03
-Home work #2
-https://k4mmm.github.io/goit-markup-hw-03/.
+# goit-markup-hw-06
+Home work #6
+https://k4mmm.github.io/goit-markup-hw-06/.
